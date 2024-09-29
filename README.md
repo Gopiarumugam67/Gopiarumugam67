@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gopinath
-- 👀 I’m interested in webdesigning,game development,editing.
-- 🌱 I’m currently learning fullstack development and game development.
-- 💞️ I’m looking to collaborate on game development and web design.
+- 👀 I’m interested in webdesigning, Appdevelopment and UIUX. 
+- 🌱 I’m currently learning fullstack development and App development.
+- 💞️ I’m looking to collaborate on App development and web design.
 - 📫 How to reach me gopiarumugam67@gmail.com
 - ⚡ Fun fact: I'm intrested in games.
 
